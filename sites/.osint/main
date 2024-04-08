@@ -1,1 +1,5 @@
-
+git clone https://github.com/Datalux/Osintgram.git
+cd Osintgram 
+git clone https://github.com/ping/instagram_private_api.git
+clear
+exit
