@@ -1,6 +1,6 @@
 # ShellPhish v1.8
 
-* Original Author: github.com/thelinuxchoice
+* Original Author: [thelinuxchoice](https://github.com/thelinuxchoice)
 * Original Repository has been deleted.
 * Twitter: [@KaliLinux_in](https://twitter.com/KaliLinux_in)
 
@@ -26,11 +26,14 @@ bash shellphish.sh
 ```
 ### Additional tools
 
-	[PhishMailer](sites/.mailer/#READMEmd)
-	[Lockphish](sites/.src/#READMEmd)
-	[Osintgram](sites/.osint/#READMEmd)
-	[MaskPhish](sites/.src/#mask.md)
+* [PhishMailer](sites/.mailer/#READMEmd)
+
+* [Lockphish](sites/.src/#READMEmd)
+
+* [Osintgram](sites/.osint/#READMEmd) pre download
+
+* [MaskPhish](sites/.src/#mask.md)
 
 ### Donate!
 
-Support the authors:[Paypal:](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url)
+Support the authors:[Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url)
